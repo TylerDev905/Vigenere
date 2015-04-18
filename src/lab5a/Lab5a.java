@@ -3,10 +3,8 @@ package lab5a;
 import java.util.Scanner;
 
 /**
- * @author William Taylor-Holubeshen
- * @studentId 000305063
+ * @author Tyler H
  * @date Apr 10 2013
- * @statement I, William Taylor-Holubeshen, 000305063 certify that this material is my original work. 
  * No other person's work has been used without due acknowledgement.
  * @purpose The Lab5a class will take in 3 arguments when launched. A source file path, 
  * destination file path and a command. The class will then prompt the user for a 
